@@ -155,7 +155,6 @@ div.video{
 }
 
 div.video > iframe{
-    display: none;
     position: absolute;
     top: 5%;
     left: 5%;
